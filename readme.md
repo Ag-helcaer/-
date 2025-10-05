@@ -1,8 +1,3 @@
-code
-Markdown
-download
-content_copy
-expand_less
 Механизм подъёма ковша "Погрузчик"
 > Команда: "Проект захват"
 
